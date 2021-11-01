@@ -1,0 +1,4 @@
+hello this is a new text file
+this is the second line
+and this only works for jupiter notebook
+this is how to add another line to a txt filethis is how to add another line to a txt file
